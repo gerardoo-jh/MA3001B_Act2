@@ -1,0 +1,9 @@
+
+{
+  "subscription_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "resource_group": "ACT2_p1",
+  "workspace_name": "CloudComputingL",
+  "model_name": "model_act2",
+  "model_path": "model_act2.pkl",
+  "umbral": [0.5]
+}
