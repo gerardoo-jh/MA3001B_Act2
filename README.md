@@ -5,10 +5,10 @@ Este repositorio contiene un sistema de procesamiento y análisis de datos con c
 ## Instrucciones para ejecutar el proyecto
 
 **Paso 1:** Haz fork de este repositorio.  
-**Paso 2:** Ejecuta el notebook `Act2.ipynb`.  
+**Paso 2:** Ejecuta el notebook `Dep_Datos.ipynb`.  
 > Este archivo realiza el análisis exploratorio inicial y define las variables clave para el modelo.
 
-**Paso 3:** Corre `Dep_Datos (1).ipynb`.  
+**Paso 3:** Corre `Act2.ipynb`.  
 > Aquí se depuran los datos, eliminando valores atípicos y estandarizando las variables para su uso posterior.
 
 **Paso 4:** Corre `api.ipynb`.  
